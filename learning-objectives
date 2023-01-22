@@ -1,0 +1,19 @@
+Create a CloudFormation Stack
+
+Create a CloudFormation stack named cfnlab from the provided template.
+
+
+Update the CloudFormation Stack
+
+Update the CloudFormation stack cfnlab using updatestack1.json to observe how resources are added and removed.
+Update cfnlab again, replacing the current template with createstack.json to observe how resources are changed.
+In a text editor, open the updatestack2.json template file and modify the characters 123 in catsareawesome123.
+Save the file.
+Update cfnlab again, replacing the current template with the modified updatestack2.json template.
+Run Progress Check
+
+
+Delete CloudFormation Stack
+
+Delete the CloudFormation stack you created, and observe how the resources are deleted.
+Run Progress Check
