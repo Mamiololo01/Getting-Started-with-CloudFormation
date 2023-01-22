@@ -1,0 +1,11 @@
+Log in to the live AWS environment using the credentials provided, and make sure you are in the us-east-1 (N. Virginia) Region.
+The CloudFormation templates and other hands-on lab files can found here and cloned from GitHub. For this lab, you will be working from the /labs/getting 
+started with cfn folder, which has the files that you will be required to upload from your computer.
+Alternatively, you can download the files from the direct raw links below. To save the file, click on the provided link. Once the file opens in your browser, 
+right-click and select Save as to save the JSON or YAML file to your computer.
+Raw File Download Links
+Here are the links where you can download the raw files:
+* createstack.json
+* updatestack1.json
+* updatestack2.json
+A list of AWS resources and what happens when updates occur can be found here.
